@@ -1,6 +1,6 @@
-# AI Lab G5 — Step 2 — Shiraz Urban Routing
+# AI Lab G5 — Step 2 — Urban Routing
 **Repository owner:** Younes Behniya  
-**Repository:** `ai-lab-g5-step2-Younes--Behniya`  
+**Repository:** `ai-lab-g5-step2-Younes-Behniya`  
 **Role:** Design / Data-source selection and license review
 
 ## هدف این مخزن
@@ -31,14 +31,6 @@ src/          نمونه‌های کمکی و قراردادهای پردازش
 4. `design/data_schema.md`
 5. `design/system_architecture.md`
 6. `design/implementation_handoff.md`
-
-## گام‌های بعدی گروه
-- [ ] تأیید محدوده دقیق شیراز (کل شهر یا ناحیه نمونه)
-- [ ] تأیید نوع سفر (خودرو یا پیاده)
-- [ ] دریافت داده واقعی و ثبت فراداده در `data/real/README.md`
-- [ ] اجرای تست‌ها روی داده مصنوعی
-- [ ] اجرای سناریوهای موانع مصنوعی روی گراف واقعی
-- [ ] ثبت انتساب OSM در گزارش و خروجی نهایی
 
 ## منابع
 - OpenStreetMap: https://www.openstreetmap.org/
