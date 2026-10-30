@@ -30,7 +30,6 @@ src/          نمونه‌های کمکی و قراردادهای پردازش
 3. `design/data_source_and_license.md`
 4. `design/data_schema.md`
 5. `design/system_architecture.md`
-6. `design/implementation_handoff.md`
 
 ## منابع
 - OpenStreetMap: https://www.openstreetmap.org/
